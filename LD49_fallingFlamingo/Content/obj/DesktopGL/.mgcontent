@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/backdrop_hills.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/backdrop_lake.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/backdrop_lawn.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/ball.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/clickSound.wav</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/cloud.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/cursor.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/deathSound.wav</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/fish.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingo.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoLeftLeg.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoLeftLegExitedL.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoLeftLegExitedR.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoLeftMoving.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoLeftMovingExitedL.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoLeftMovingExitedR.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoRightLeg.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoRightLegExitedL.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoRightLegExitedR.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoRightMoving.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoRightMovingExitedL.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/flamingoRightMovingExitedR.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/food.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/foodBar.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/foodBarAlert.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/foodBarAlertSound.wav</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/gaugeAlertSound.wav</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/leftArrow.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/LegButtonLOff.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/LegButtonLOn.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/LegButtonROff.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/LegButtonROn.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/legChangeSound.wav</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/poop.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/pressureGauge.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/pressureGaugeAlert.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/rightArrow.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/RightBackground.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/shit.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/shitBar.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/shitBarAlertSound.wav</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/shitBarBlinking.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/shitButtonDown.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/shitButtonFree.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/SlangOutfit.spritefont</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/sliderBar.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/SliderButtonFree.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/SliderButtonPressed.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/startscreen.png</File>
+    <File>C:/Users/damia/source/repos/LD49_butterfly/LD49_butterfly/Content/tiltAlertSound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

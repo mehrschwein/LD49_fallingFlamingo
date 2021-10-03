@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3wPrhEX1k6F4PWru6LdukW+bZkHH1lLhAHox9gwVz+udVY0eilWIo/SyaAd3nKG1es86tHyp7EKaDAhVpV/0tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damia\\source\\repos\\LD49_butterfly\\LD49_fallingFlamingo\\LD49_fallingFlamingo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damia\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\damia\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\damia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
