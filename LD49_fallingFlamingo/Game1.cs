@@ -710,7 +710,7 @@ namespace LD49_butterfly
                 {
                     fishesalive[i/2] = true;
                     fishes[i/2].box.X = -100;
-                    fishes[i / 2].box.Y = rng.Next(300,500);
+                    fishes[i / 2].box.Y = rng.Next(300,420);
                     fishcounter++;
                     if (fishcounter >= 10)
                         fishcounter = 0;
